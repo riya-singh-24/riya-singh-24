@@ -40,5 +40,6 @@ I love working with messy datasets, finding meaningful insights, and presenting 
 ### 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-singh-7667b23b5)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riya-singh-24)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logocolor=white)](mailto:rs8860210@gmail.com)
+
  **Currently open to Data Analyst / Business Analyst opportunities** 
  Feel free to check out my repositories or reach out!
