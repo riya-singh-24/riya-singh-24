@@ -34,7 +34,7 @@ I love working with messy datasets, finding meaningful insights, and presenting 
   ### 🚀 Featured Projects
   |Project | Description | Tools | Link |
   |---------|-------------|-------|------|
-  
+ UPI-Based NTC Credit Readiness & Financial Inclusion Engine | Built an end-to-end credit decisioning system for New-to-Credit users using UPI payment behaviour. Includes a transparent risk scorecard, financial inclusion analysis, and a policy simulator that shows the trade-off between approval volume and risk.| Python, Pandas, Power BI, Feature Engineering, Data Visualization | https://github.com/riya-singh-24/upi-ntc-credit-readiness-engine 
   
 
 ### 📬 Let's Connect
